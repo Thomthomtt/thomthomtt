@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomaz Gomes(thomthom)</h1>
 <h3 align="center">A passionate student backend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomthomtt" alt="thomthomtt" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **shellscript, php and ETL**
